@@ -1,1 +1,9 @@
-command: git push origin master --force
+command: 
+
+git push origin master --force
+git branch 
+git checkout
+
+$git commit -m "creating dev branch"
+
+git diff --staged
